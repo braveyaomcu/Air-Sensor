@@ -1,0 +1,11 @@
+wirelessmqtt\guidemo_dialog.o: ..\uCGUI\Tutorial\GUIDEMO_Dialog.c
+wirelessmqtt\guidemo_dialog.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+wirelessmqtt\guidemo_dialog.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\guidemo_dialog.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\guidemo_dialog.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\guidemo_dialog.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\guidemo_dialog.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\guidemo_dialog.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\guidemo_dialog.o: ..\uCGUI\Tutorial\GUIDEMO.h
+wirelessmqtt\guidemo_dialog.o: ..\uCGUI\Core\LCD_ConfDefaults.h
+wirelessmqtt\guidemo_dialog.o: ..\uCGUI\Config\LCDConf.h

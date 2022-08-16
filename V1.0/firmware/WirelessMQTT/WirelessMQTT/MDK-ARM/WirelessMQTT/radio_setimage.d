@@ -1,0 +1,10 @@
+wirelessmqtt\radio_setimage.o: ..\uCGUI\Widget\RADIO_SetImage.c
+wirelessmqtt\radio_setimage.o: ..\uCGUI\Widget\RADIO.h
+wirelessmqtt\radio_setimage.o: ..\uCGUI\WM\WM.h
+wirelessmqtt\radio_setimage.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\radio_setimage.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\radio_setimage.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\radio_setimage.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\radio_setimage.o: ..\uCGUI\WM\WM_GUI.h
+wirelessmqtt\radio_setimage.o: ..\uCGUI\Widget\DIALOG_Intern.h
+wirelessmqtt\radio_setimage.o: ..\uCGUI\Widget\RADIO_Private.h

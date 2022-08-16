@@ -1,0 +1,9 @@
+wirelessmqtt\wm_redraw.o: ..\uCGUI\Tutorial\WM_Redraw.c
+wirelessmqtt\wm_redraw.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\wm_redraw.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\wm_redraw.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\wm_redraw.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\wm_redraw.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\wm_redraw.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\wm_redraw.o: ..\uCGUI\WM\WM.h
+wirelessmqtt\wm_redraw.o: ..\uCGUI\WM\WM_GUI.h

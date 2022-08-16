@@ -1,0 +1,16 @@
+wirelessmqtt\guidev_xy2ptr.o: ..\uCGUI\MemDev\GUIDEV_XY2PTR.c
+wirelessmqtt\guidev_xy2ptr.o: ..\uCGUI\Core\GUI_Private.h
+wirelessmqtt\guidev_xy2ptr.o: ..\uCGUI\Core\GUI_Protected.h
+wirelessmqtt\guidev_xy2ptr.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\guidev_xy2ptr.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\guidev_xy2ptr.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\guidev_xy2ptr.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\guidev_xy2ptr.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\guidev_xy2ptr.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\guidev_xy2ptr.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\guidev_xy2ptr.o: ..\uCGUI\Core\GUIDebug.h
+wirelessmqtt\guidev_xy2ptr.o: ..\uCGUI\Core\GUI_X.h
+wirelessmqtt\guidev_xy2ptr.o: ..\uCGUI\WM\WM_GUI.h
+wirelessmqtt\guidev_xy2ptr.o: ..\uCGUI\Core\LCD_Private.h
+wirelessmqtt\guidev_xy2ptr.o: ..\uCGUI\Core\LCD_ConfDefaults.h
+wirelessmqtt\guidev_xy2ptr.o: ..\uCGUI\Config\LCDConf.h

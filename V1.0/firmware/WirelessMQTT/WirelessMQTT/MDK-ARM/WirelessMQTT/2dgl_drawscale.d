@@ -1,0 +1,9 @@
+wirelessmqtt\2dgl_drawscale.o: ..\uCGUI\Tutorial\2DGL_DrawScale.c
+wirelessmqtt\2dgl_drawscale.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\2dgl_drawscale.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\2dgl_drawscale.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\2dgl_drawscale.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\2dgl_drawscale.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\2dgl_drawscale.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\2dgl_drawscale.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+wirelessmqtt\2dgl_drawscale.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h

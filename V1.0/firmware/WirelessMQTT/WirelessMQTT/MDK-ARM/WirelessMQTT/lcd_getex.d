@@ -1,0 +1,12 @@
+wirelessmqtt\lcd_getex.o: ..\uCGUI\Core\LCD_GetEx.c
+wirelessmqtt\lcd_getex.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+wirelessmqtt\lcd_getex.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\lcd_getex.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\lcd_getex.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\lcd_getex.o: ..\uCGUI\Core\LCD_Private.h
+wirelessmqtt\lcd_getex.o: ..\uCGUI\Core\LCD_ConfDefaults.h
+wirelessmqtt\lcd_getex.o: ..\uCGUI\Config\LCDConf.h
+wirelessmqtt\lcd_getex.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\lcd_getex.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\lcd_getex.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\lcd_getex.o: ..\uCGUI\Core\GUIVersion.h

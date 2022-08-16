@@ -1,0 +1,10 @@
+wirelessmqtt\guidemo_cursor.o: ..\uCGUI\Tutorial\GUIDEMO_Cursor.c
+wirelessmqtt\guidemo_cursor.o: ..\uCGUI\Core\GUI.H
+wirelessmqtt\guidemo_cursor.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\guidemo_cursor.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\guidemo_cursor.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\guidemo_cursor.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\guidemo_cursor.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\guidemo_cursor.o: ..\uCGUI\Tutorial\GUIDEMO.H
+wirelessmqtt\guidemo_cursor.o: ..\uCGUI\Core\LCD_ConfDefaults.h
+wirelessmqtt\guidemo_cursor.o: ..\uCGUI\Config\LCDConf.h

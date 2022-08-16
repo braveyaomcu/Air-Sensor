@@ -1,0 +1,15 @@
+wirelessmqtt\gui_touch.o: ..\uCGUI\Core\GUI_TOUCH.c
+wirelessmqtt\gui_touch.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+wirelessmqtt\gui_touch.o: ..\uCGUI\Core\LCD_Private.h
+wirelessmqtt\gui_touch.o: ..\uCGUI\Core\LCD_ConfDefaults.h
+wirelessmqtt\gui_touch.o: ..\uCGUI\Config\LCDConf.h
+wirelessmqtt\gui_touch.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\gui_touch.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\gui_touch.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\gui_touch.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\gui_touch.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\gui_touch.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\gui_touch.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\gui_touch.o: ..\uCGUI\Core\GUI_Protected.h
+wirelessmqtt\gui_touch.o: ..\uCGUI\Core\GUIDebug.h
+wirelessmqtt\gui_touch.o: ..\uCGUI\Core\GUI_X.h

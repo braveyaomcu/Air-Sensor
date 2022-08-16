@@ -1,0 +1,11 @@
+wirelessmqtt\guidemo_font.o: ..\uCGUI\Tutorial\GUIDEMO_Font.c
+wirelessmqtt\guidemo_font.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+wirelessmqtt\guidemo_font.o: ..\uCGUI\Core\GUI.H
+wirelessmqtt\guidemo_font.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\guidemo_font.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\guidemo_font.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\guidemo_font.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\guidemo_font.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\guidemo_font.o: ..\uCGUI\Tutorial\GUIDEMO.H
+wirelessmqtt\guidemo_font.o: ..\uCGUI\Core\LCD_ConfDefaults.h
+wirelessmqtt\guidemo_font.o: ..\uCGUI\Config\LCDConf.h

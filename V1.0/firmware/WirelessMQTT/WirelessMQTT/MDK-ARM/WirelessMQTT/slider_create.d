@@ -1,0 +1,17 @@
+wirelessmqtt\slider_create.o: ..\uCGUI\Widget\SLIDER_Create.c
+wirelessmqtt\slider_create.o: ..\uCGUI\Widget\SLIDER.h
+wirelessmqtt\slider_create.o: ..\uCGUI\WM\WM.h
+wirelessmqtt\slider_create.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\slider_create.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\slider_create.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\slider_create.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\slider_create.o: ..\uCGUI\WM\WM_GUI.h
+wirelessmqtt\slider_create.o: ..\uCGUI\Widget\DIALOG_Intern.h
+wirelessmqtt\slider_create.o: ..\uCGUI\Widget\WIDGET.h
+wirelessmqtt\slider_create.o: ..\uCGUI\WM\WM_Intern.h
+wirelessmqtt\slider_create.o: ..\uCGUI\Core\GUI_Protected.h
+wirelessmqtt\slider_create.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\slider_create.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\slider_create.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\slider_create.o: ..\uCGUI\Core\GUIDebug.h
+wirelessmqtt\slider_create.o: ..\uCGUI\Core\GUI_X.h

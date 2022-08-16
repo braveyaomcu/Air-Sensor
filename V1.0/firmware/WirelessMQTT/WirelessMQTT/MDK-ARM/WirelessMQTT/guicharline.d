@@ -1,0 +1,13 @@
+wirelessmqtt\guicharline.o: ..\uCGUI\Core\GUICharLine.c
+wirelessmqtt\guicharline.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+wirelessmqtt\guicharline.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+wirelessmqtt\guicharline.o: ..\uCGUI\Core\GUI_Protected.h
+wirelessmqtt\guicharline.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\guicharline.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\guicharline.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\guicharline.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\guicharline.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\guicharline.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\guicharline.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\guicharline.o: ..\uCGUI\Core\GUIDebug.h
+wirelessmqtt\guicharline.o: ..\uCGUI\Core\GUI_X.h

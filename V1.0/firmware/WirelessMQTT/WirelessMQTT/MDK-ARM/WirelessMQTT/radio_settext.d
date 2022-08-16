@@ -1,0 +1,9 @@
+wirelessmqtt\radio_settext.o: ..\uCGUI\Widget\RADIO_SetText.c
+wirelessmqtt\radio_settext.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+wirelessmqtt\radio_settext.o: ..\uCGUI\Widget\RADIO_Private.h
+wirelessmqtt\radio_settext.o: ..\uCGUI\WM\WM.h
+wirelessmqtt\radio_settext.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\radio_settext.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\radio_settext.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\radio_settext.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\radio_settext.o: ..\uCGUI\WM\WM_GUI.h

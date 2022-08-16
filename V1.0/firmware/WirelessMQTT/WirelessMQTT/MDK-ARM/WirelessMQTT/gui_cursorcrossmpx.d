@@ -1,0 +1,12 @@
+wirelessmqtt\gui_cursorcrossmpx.o: ..\uCGUI\Core\GUI_CursorCrossMPx.c
+wirelessmqtt\gui_cursorcrossmpx.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+wirelessmqtt\gui_cursorcrossmpx.o: ..\uCGUI\Core\GUI_Protected.h
+wirelessmqtt\gui_cursorcrossmpx.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\gui_cursorcrossmpx.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\gui_cursorcrossmpx.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\gui_cursorcrossmpx.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\gui_cursorcrossmpx.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\gui_cursorcrossmpx.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\gui_cursorcrossmpx.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\gui_cursorcrossmpx.o: ..\uCGUI\Core\GUIDebug.h
+wirelessmqtt\gui_cursorcrossmpx.o: ..\uCGUI\Core\GUI_X.h

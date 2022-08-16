@@ -1,0 +1,10 @@
+wirelessmqtt\mqttunsubscribeclient.o: ..\mqtt\MQTTUnsubscribeClient.c
+wirelessmqtt\mqttunsubscribeclient.o: ..\mqtt\MQTTPacket.h
+wirelessmqtt\mqttunsubscribeclient.o: ..\mqtt\MQTTConnect.h
+wirelessmqtt\mqttunsubscribeclient.o: ..\mqtt\MQTTPacket.h
+wirelessmqtt\mqttunsubscribeclient.o: ..\mqtt\MQTTPublish.h
+wirelessmqtt\mqttunsubscribeclient.o: ..\mqtt\MQTTSubscribe.h
+wirelessmqtt\mqttunsubscribeclient.o: ..\mqtt\MQTTUnsubscribe.h
+wirelessmqtt\mqttunsubscribeclient.o: ..\mqtt\StackTrace.h
+wirelessmqtt\mqttunsubscribeclient.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+wirelessmqtt\mqttunsubscribeclient.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

@@ -1,0 +1,13 @@
+wirelessmqtt\widget_framewin.o: ..\uCGUI\Tutorial\WIDGET_FrameWin.c
+wirelessmqtt\widget_framewin.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+wirelessmqtt\widget_framewin.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+wirelessmqtt\widget_framewin.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\widget_framewin.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\widget_framewin.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\widget_framewin.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\widget_framewin.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\widget_framewin.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\widget_framewin.o: ..\uCGUI\Widget\FRAMEWIN.h
+wirelessmqtt\widget_framewin.o: ..\uCGUI\WM\WM.h
+wirelessmqtt\widget_framewin.o: ..\uCGUI\WM\WM_GUI.h
+wirelessmqtt\widget_framewin.o: ..\uCGUI\Widget\DIALOG_Intern.h

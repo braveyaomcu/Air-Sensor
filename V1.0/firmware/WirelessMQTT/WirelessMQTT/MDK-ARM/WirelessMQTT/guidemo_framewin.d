@@ -1,0 +1,11 @@
+wirelessmqtt\guidemo_framewin.o: ..\uCGUI\Tutorial\GUIDEMO_FrameWin.c
+wirelessmqtt\guidemo_framewin.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+wirelessmqtt\guidemo_framewin.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\guidemo_framewin.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\guidemo_framewin.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\guidemo_framewin.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\guidemo_framewin.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\guidemo_framewin.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\guidemo_framewin.o: ..\uCGUI\Tutorial\GUIDEMO.h
+wirelessmqtt\guidemo_framewin.o: ..\uCGUI\Core\LCD_ConfDefaults.h
+wirelessmqtt\guidemo_framewin.o: ..\uCGUI\Config\LCDConf.h

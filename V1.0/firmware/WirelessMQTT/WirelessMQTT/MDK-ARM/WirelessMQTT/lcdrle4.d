@@ -1,0 +1,16 @@
+wirelessmqtt\lcdrle4.o: ..\uCGUI\Core\LCDRLE4.c
+wirelessmqtt\lcdrle4.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+wirelessmqtt\lcdrle4.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\lcdrle4.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\lcdrle4.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\lcdrle4.o: ..\uCGUI\Core\GUI_Private.h
+wirelessmqtt\lcdrle4.o: ..\uCGUI\Core\GUI_Protected.h
+wirelessmqtt\lcdrle4.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\lcdrle4.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\lcdrle4.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\lcdrle4.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\lcdrle4.o: ..\uCGUI\Core\GUIDebug.h
+wirelessmqtt\lcdrle4.o: ..\uCGUI\Core\GUI_X.h
+wirelessmqtt\lcdrle4.o: ..\uCGUI\Core\LCD_Private.h
+wirelessmqtt\lcdrle4.o: ..\uCGUI\Core\LCD_ConfDefaults.h
+wirelessmqtt\lcdrle4.o: ..\uCGUI\Config\LCDConf.h

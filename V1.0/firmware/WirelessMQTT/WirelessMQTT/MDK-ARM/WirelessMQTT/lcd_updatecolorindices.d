@@ -1,0 +1,15 @@
+wirelessmqtt\lcd_updatecolorindices.o: ..\uCGUI\Core\LCD_UpdateColorIndices.c
+wirelessmqtt\lcd_updatecolorindices.o: ..\uCGUI\Core\LCD_Private.h
+wirelessmqtt\lcd_updatecolorindices.o: ..\uCGUI\Core\LCD_ConfDefaults.h
+wirelessmqtt\lcd_updatecolorindices.o: ..\uCGUI\Config\LCDConf.h
+wirelessmqtt\lcd_updatecolorindices.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\lcd_updatecolorindices.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\lcd_updatecolorindices.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\lcd_updatecolorindices.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\lcd_updatecolorindices.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\lcd_updatecolorindices.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\lcd_updatecolorindices.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\lcd_updatecolorindices.o: ..\uCGUI\Core\GUI_Private.h
+wirelessmqtt\lcd_updatecolorindices.o: ..\uCGUI\Core\GUI_Protected.h
+wirelessmqtt\lcd_updatecolorindices.o: ..\uCGUI\Core\GUIDebug.h
+wirelessmqtt\lcd_updatecolorindices.o: ..\uCGUI\Core\GUI_X.h

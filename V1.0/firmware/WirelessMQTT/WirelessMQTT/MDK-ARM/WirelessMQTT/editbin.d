@@ -1,0 +1,17 @@
+wirelessmqtt\editbin.o: ..\uCGUI\Widget\EDITBin.c
+wirelessmqtt\editbin.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+wirelessmqtt\editbin.o: ..\uCGUI\Widget\EDIT.h
+wirelessmqtt\editbin.o: ..\uCGUI\WM\WM.h
+wirelessmqtt\editbin.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\editbin.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\editbin.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\editbin.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\editbin.o: ..\uCGUI\WM\WM_GUI.h
+wirelessmqtt\editbin.o: ..\uCGUI\Widget\DIALOG_Intern.h
+wirelessmqtt\editbin.o: ..\uCGUI\Core\GUIDebug.h
+wirelessmqtt\editbin.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\editbin.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\editbin.o: ..\uCGUI\Core\GUI_X.h
+wirelessmqtt\editbin.o: ..\uCGUI\Core\GUI_Protected.h
+wirelessmqtt\editbin.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\editbin.o: ..\uCGUI\Widget\EDIT_Private.h

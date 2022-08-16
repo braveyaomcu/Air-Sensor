@@ -1,0 +1,11 @@
+wirelessmqtt\gui_dispchars.o: ..\uCGUI\Core\GUI_DispChars.c
+wirelessmqtt\gui_dispchars.o: ..\uCGUI\Core\GUI_Protected.h
+wirelessmqtt\gui_dispchars.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\gui_dispchars.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\gui_dispchars.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\gui_dispchars.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\gui_dispchars.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\gui_dispchars.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\gui_dispchars.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\gui_dispchars.o: ..\uCGUI\Core\GUIDebug.h
+wirelessmqtt\gui_dispchars.o: ..\uCGUI\Core\GUI_X.h

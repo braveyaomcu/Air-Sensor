@@ -1,0 +1,12 @@
+wirelessmqtt\widget_fillstringinrect.o: ..\uCGUI\Widget\WIDGET_FillStringInRect.c
+wirelessmqtt\widget_fillstringinrect.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+wirelessmqtt\widget_fillstringinrect.o: ..\uCGUI\Core\GUI_Protected.h
+wirelessmqtt\widget_fillstringinrect.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\widget_fillstringinrect.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\widget_fillstringinrect.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\widget_fillstringinrect.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\widget_fillstringinrect.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\widget_fillstringinrect.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\widget_fillstringinrect.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\widget_fillstringinrect.o: ..\uCGUI\Core\GUIDebug.h
+wirelessmqtt\widget_fillstringinrect.o: ..\uCGUI\Core\GUI_X.h

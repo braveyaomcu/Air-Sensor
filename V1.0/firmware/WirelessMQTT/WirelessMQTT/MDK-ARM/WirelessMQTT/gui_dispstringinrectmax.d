@@ -1,0 +1,13 @@
+wirelessmqtt\gui_dispstringinrectmax.o: ..\uCGUI\Core\GUI_DispStringInRectMax.c
+wirelessmqtt\gui_dispstringinrectmax.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+wirelessmqtt\gui_dispstringinrectmax.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+wirelessmqtt\gui_dispstringinrectmax.o: ..\uCGUI\Core\GUI_Protected.h
+wirelessmqtt\gui_dispstringinrectmax.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\gui_dispstringinrectmax.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\gui_dispstringinrectmax.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\gui_dispstringinrectmax.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\gui_dispstringinrectmax.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\gui_dispstringinrectmax.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\gui_dispstringinrectmax.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\gui_dispstringinrectmax.o: ..\uCGUI\Core\GUIDebug.h
+wirelessmqtt\gui_dispstringinrectmax.o: ..\uCGUI\Core\GUI_X.h

@@ -1,0 +1,10 @@
+wirelessmqtt\wm_sample.o: ..\uCGUI\Tutorial\WM_Sample.c
+wirelessmqtt\wm_sample.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+wirelessmqtt\wm_sample.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\wm_sample.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\wm_sample.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\wm_sample.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\wm_sample.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\wm_sample.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\wm_sample.o: ..\uCGUI\WM\WM.h
+wirelessmqtt\wm_sample.o: ..\uCGUI\WM\WM_GUI.h

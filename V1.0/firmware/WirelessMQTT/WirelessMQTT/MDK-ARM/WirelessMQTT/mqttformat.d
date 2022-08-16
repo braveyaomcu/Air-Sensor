@@ -1,0 +1,10 @@
+wirelessmqtt\mqttformat.o: ..\mqtt\MQTTFormat.c
+wirelessmqtt\mqttformat.o: ..\mqtt\StackTrace.h
+wirelessmqtt\mqttformat.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+wirelessmqtt\mqttformat.o: ..\mqtt\MQTTPacket.h
+wirelessmqtt\mqttformat.o: ..\mqtt\MQTTConnect.h
+wirelessmqtt\mqttformat.o: ..\mqtt\MQTTPacket.h
+wirelessmqtt\mqttformat.o: ..\mqtt\MQTTPublish.h
+wirelessmqtt\mqttformat.o: ..\mqtt\MQTTSubscribe.h
+wirelessmqtt\mqttformat.o: ..\mqtt\MQTTUnsubscribe.h
+wirelessmqtt\mqttformat.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

@@ -1,0 +1,10 @@
+wirelessmqtt\guidemo_polygon.o: ..\uCGUI\Tutorial\GUIDEMO_Polygon.c
+wirelessmqtt\guidemo_polygon.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\guidemo_polygon.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\guidemo_polygon.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\guidemo_polygon.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\guidemo_polygon.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\guidemo_polygon.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\guidemo_polygon.o: ..\uCGUI\Tutorial\GUIDEMO.h
+wirelessmqtt\guidemo_polygon.o: ..\uCGUI\Core\LCD_ConfDefaults.h
+wirelessmqtt\guidemo_polygon.o: ..\uCGUI\Config\LCDConf.h

@@ -1,0 +1,13 @@
+wirelessmqtt\guirealloc.o: ..\uCGUI\Core\GUIRealloc.c
+wirelessmqtt\guirealloc.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+wirelessmqtt\guirealloc.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+wirelessmqtt\guirealloc.o: ..\uCGUI\Core\GUI_Protected.h
+wirelessmqtt\guirealloc.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\guirealloc.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\guirealloc.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\guirealloc.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\guirealloc.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\guirealloc.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\guirealloc.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\guirealloc.o: ..\uCGUI\Core\GUIDebug.h
+wirelessmqtt\guirealloc.o: ..\uCGUI\Core\GUI_X.h

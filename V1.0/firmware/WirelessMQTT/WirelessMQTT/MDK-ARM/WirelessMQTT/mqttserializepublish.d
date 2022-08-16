@@ -1,0 +1,10 @@
+wirelessmqtt\mqttserializepublish.o: ..\mqtt\MQTTSerializePublish.c
+wirelessmqtt\mqttserializepublish.o: ..\mqtt\MQTTPacket.h
+wirelessmqtt\mqttserializepublish.o: ..\mqtt\MQTTConnect.h
+wirelessmqtt\mqttserializepublish.o: ..\mqtt\MQTTPacket.h
+wirelessmqtt\mqttserializepublish.o: ..\mqtt\MQTTPublish.h
+wirelessmqtt\mqttserializepublish.o: ..\mqtt\MQTTSubscribe.h
+wirelessmqtt\mqttserializepublish.o: ..\mqtt\MQTTUnsubscribe.h
+wirelessmqtt\mqttserializepublish.o: ..\mqtt\StackTrace.h
+wirelessmqtt\mqttserializepublish.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+wirelessmqtt\mqttserializepublish.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

@@ -1,0 +1,11 @@
+wirelessmqtt\guicolor2index.o: ..\uCGUI\Core\GUIColor2Index.c
+wirelessmqtt\guicolor2index.o: ..\uCGUI\Core\GUI_Protected.h
+wirelessmqtt\guicolor2index.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\guicolor2index.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\guicolor2index.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\guicolor2index.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\guicolor2index.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\guicolor2index.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\guicolor2index.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\guicolor2index.o: ..\uCGUI\Core\GUIDebug.h
+wirelessmqtt\guicolor2index.o: ..\uCGUI\Core\GUI_X.h

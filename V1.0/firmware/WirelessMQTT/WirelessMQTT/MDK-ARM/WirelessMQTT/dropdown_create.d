@@ -1,0 +1,9 @@
+wirelessmqtt\dropdown_create.o: ..\uCGUI\Widget\DROPDOWN_Create.c
+wirelessmqtt\dropdown_create.o: ..\uCGUI\Widget\DROPDOWN.h
+wirelessmqtt\dropdown_create.o: ..\uCGUI\WM\WM.h
+wirelessmqtt\dropdown_create.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\dropdown_create.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\dropdown_create.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\dropdown_create.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\dropdown_create.o: ..\uCGUI\WM\WM_GUI.h
+wirelessmqtt\dropdown_create.o: ..\uCGUI\Widget\DIALOG_Intern.h

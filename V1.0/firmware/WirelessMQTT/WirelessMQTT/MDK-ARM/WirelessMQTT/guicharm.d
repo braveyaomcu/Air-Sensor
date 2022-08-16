@@ -1,0 +1,16 @@
+wirelessmqtt\guicharm.o: ..\uCGUI\Core\GUICharM.c
+wirelessmqtt\guicharm.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+wirelessmqtt\guicharm.o: ..\uCGUI\Core\GUI_Private.h
+wirelessmqtt\guicharm.o: ..\uCGUI\Core\GUI_Protected.h
+wirelessmqtt\guicharm.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\guicharm.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\guicharm.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\guicharm.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\guicharm.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\guicharm.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\guicharm.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\guicharm.o: ..\uCGUI\Core\GUIDebug.h
+wirelessmqtt\guicharm.o: ..\uCGUI\Core\GUI_X.h
+wirelessmqtt\guicharm.o: ..\uCGUI\Core\LCD_Private.h
+wirelessmqtt\guicharm.o: ..\uCGUI\Core\LCD_ConfDefaults.h
+wirelessmqtt\guicharm.o: ..\uCGUI\Config\LCDConf.h

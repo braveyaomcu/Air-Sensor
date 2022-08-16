@@ -1,0 +1,12 @@
+wirelessmqtt\guiencjs.o: ..\uCGUI\Core\GUIEncJS.c
+wirelessmqtt\guiencjs.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+wirelessmqtt\guiencjs.o: ..\uCGUI\Core\GUI_Protected.h
+wirelessmqtt\guiencjs.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\guiencjs.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\guiencjs.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\guiencjs.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\guiencjs.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\guiencjs.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\guiencjs.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\guiencjs.o: ..\uCGUI\Core\GUIDebug.h
+wirelessmqtt\guiencjs.o: ..\uCGUI\Core\GUI_X.h

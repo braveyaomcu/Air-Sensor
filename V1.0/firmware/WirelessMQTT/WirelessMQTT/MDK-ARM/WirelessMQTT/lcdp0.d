@@ -1,0 +1,11 @@
+wirelessmqtt\lcdp0.o: ..\uCGUI\ConvertMono\LCDP0.c
+wirelessmqtt\lcdp0.o: ..\uCGUI\Core\LCD_Private.h
+wirelessmqtt\lcdp0.o: ..\uCGUI\Core\LCD_ConfDefaults.h
+wirelessmqtt\lcdp0.o: ..\uCGUI\Config\LCDConf.h
+wirelessmqtt\lcdp0.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\lcdp0.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\lcdp0.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\lcdp0.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\lcdp0.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\lcdp0.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\lcdp0.o: ..\uCGUI\Core\GUIVersion.h

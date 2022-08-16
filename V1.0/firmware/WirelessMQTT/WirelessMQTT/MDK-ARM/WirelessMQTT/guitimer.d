@@ -1,0 +1,12 @@
+wirelessmqtt\guitimer.o: ..\uCGUI\Core\GUITimer.c
+wirelessmqtt\guitimer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+wirelessmqtt\guitimer.o: ..\uCGUI\Core\GUI_Protected.h
+wirelessmqtt\guitimer.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\guitimer.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\guitimer.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\guitimer.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\guitimer.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\guitimer.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\guitimer.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\guitimer.o: ..\uCGUI\Core\GUIDebug.h
+wirelessmqtt\guitimer.o: ..\uCGUI\Core\GUI_X.h

@@ -1,0 +1,16 @@
+wirelessmqtt\lcdgetp.o: ..\uCGUI\Core\LCDGetP.c
+wirelessmqtt\lcdgetp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+wirelessmqtt\lcdgetp.o: ..\uCGUI\Core\GUI_Private.h
+wirelessmqtt\lcdgetp.o: ..\uCGUI\Core\GUI_Protected.h
+wirelessmqtt\lcdgetp.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\lcdgetp.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\lcdgetp.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\lcdgetp.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\lcdgetp.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\lcdgetp.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\lcdgetp.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\lcdgetp.o: ..\uCGUI\Core\GUIDebug.h
+wirelessmqtt\lcdgetp.o: ..\uCGUI\Core\GUI_X.h
+wirelessmqtt\lcdgetp.o: ..\uCGUI\Core\LCD_Private.h
+wirelessmqtt\lcdgetp.o: ..\uCGUI\Core\LCD_ConfDefaults.h
+wirelessmqtt\lcdgetp.o: ..\uCGUI\Config\LCDConf.h

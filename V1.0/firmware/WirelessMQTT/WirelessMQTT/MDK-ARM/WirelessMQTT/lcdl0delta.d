@@ -1,0 +1,16 @@
+wirelessmqtt\lcdl0delta.o: ..\uCGUI\Core\LCDL0Delta.c
+wirelessmqtt\lcdl0delta.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+wirelessmqtt\lcdl0delta.o: ..\uCGUI\Core\GUI_Private.h
+wirelessmqtt\lcdl0delta.o: ..\uCGUI\Core\GUI_Protected.h
+wirelessmqtt\lcdl0delta.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\lcdl0delta.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\lcdl0delta.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\lcdl0delta.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\lcdl0delta.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\lcdl0delta.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\lcdl0delta.o: ..\uCGUI\Core\LCD_Protected.h
+wirelessmqtt\lcdl0delta.o: ..\uCGUI\Core\GUIDebug.h
+wirelessmqtt\lcdl0delta.o: ..\uCGUI\Core\GUI_X.h
+wirelessmqtt\lcdl0delta.o: ..\uCGUI\Core\LCD_Private.h
+wirelessmqtt\lcdl0delta.o: ..\uCGUI\Core\LCD_ConfDefaults.h
+wirelessmqtt\lcdl0delta.o: ..\uCGUI\Config\LCDConf.h

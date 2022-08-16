@@ -1,0 +1,10 @@
+wirelessmqtt\guidemo_colorbar.o: ..\uCGUI\Tutorial\GUIDEMO_ColorBar.c
+wirelessmqtt\guidemo_colorbar.o: ..\uCGUI\Core\LCD.h
+wirelessmqtt\guidemo_colorbar.o: ..\uCGUI\Core\GUI_ConfDefaults.h
+wirelessmqtt\guidemo_colorbar.o: ..\uCGUI\Config\GUIConf.h
+wirelessmqtt\guidemo_colorbar.o: ..\uCGUI\Core\LCD_ConfDefaults.h
+wirelessmqtt\guidemo_colorbar.o: ..\uCGUI\Config\LCDConf.h
+wirelessmqtt\guidemo_colorbar.o: ..\uCGUI\Core\GUI.h
+wirelessmqtt\guidemo_colorbar.o: ..\uCGUI\Core\GUIType.h
+wirelessmqtt\guidemo_colorbar.o: ..\uCGUI\Core\GUIVersion.h
+wirelessmqtt\guidemo_colorbar.o: ..\uCGUI\Tutorial\GUIDEMO.h
