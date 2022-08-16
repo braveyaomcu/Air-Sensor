@@ -1,9 +1,0 @@
-wirelessmqtt\edit_create.o: ..\uCGUI\Widget\EDIT_Create.c
-wirelessmqtt\edit_create.o: ..\uCGUI\Widget\EDIT.h
-wirelessmqtt\edit_create.o: ..\uCGUI\WM\WM.h
-wirelessmqtt\edit_create.o: ..\uCGUI\Core\GUI_ConfDefaults.h
-wirelessmqtt\edit_create.o: ..\uCGUI\Config\GUIConf.h
-wirelessmqtt\edit_create.o: ..\uCGUI\Core\GUIType.h
-wirelessmqtt\edit_create.o: ..\uCGUI\Core\LCD.h
-wirelessmqtt\edit_create.o: ..\uCGUI\WM\WM_GUI.h
-wirelessmqtt\edit_create.o: ..\uCGUI\Widget\DIALOG_Intern.h

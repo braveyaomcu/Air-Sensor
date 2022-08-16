@@ -1,9 +1,0 @@
-wirelessmqtt\alpha_bargraph.o: ..\uCGUI\Tutorial\ALPHA_Bargraph.c
-wirelessmqtt\alpha_bargraph.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
-wirelessmqtt\alpha_bargraph.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-wirelessmqtt\alpha_bargraph.o: ..\uCGUI\Core\GUI.h
-wirelessmqtt\alpha_bargraph.o: ..\uCGUI\Core\GUI_ConfDefaults.h
-wirelessmqtt\alpha_bargraph.o: ..\uCGUI\Config\GUIConf.h
-wirelessmqtt\alpha_bargraph.o: ..\uCGUI\Core\GUIType.h
-wirelessmqtt\alpha_bargraph.o: ..\uCGUI\Core\LCD.h
-wirelessmqtt\alpha_bargraph.o: ..\uCGUI\Core\GUIVersion.h

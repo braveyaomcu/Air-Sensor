@@ -1,9 +1,0 @@
-wirelessmqtt\guiaapolyout.o: ..\uCGUI\AntiAlias\GUIAAPolyOut.c
-wirelessmqtt\guiaapolyout.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-wirelessmqtt\guiaapolyout.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-wirelessmqtt\guiaapolyout.o: ..\uCGUI\Core\GUI.h
-wirelessmqtt\guiaapolyout.o: ..\uCGUI\Core\GUI_ConfDefaults.h
-wirelessmqtt\guiaapolyout.o: ..\uCGUI\Config\GUIConf.h
-wirelessmqtt\guiaapolyout.o: ..\uCGUI\Core\GUIType.h
-wirelessmqtt\guiaapolyout.o: ..\uCGUI\Core\LCD.h
-wirelessmqtt\guiaapolyout.o: ..\uCGUI\Core\GUIVersion.h

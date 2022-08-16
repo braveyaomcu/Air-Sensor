@@ -1,9 +1,0 @@
-wirelessmqtt\checkbox_create.o: ..\uCGUI\Widget\CHECKBOX_Create.c
-wirelessmqtt\checkbox_create.o: ..\uCGUI\Widget\CHECKBOX.h
-wirelessmqtt\checkbox_create.o: ..\uCGUI\WM\WM.h
-wirelessmqtt\checkbox_create.o: ..\uCGUI\Core\GUI_ConfDefaults.h
-wirelessmqtt\checkbox_create.o: ..\uCGUI\Config\GUIConf.h
-wirelessmqtt\checkbox_create.o: ..\uCGUI\Core\GUIType.h
-wirelessmqtt\checkbox_create.o: ..\uCGUI\Core\LCD.h
-wirelessmqtt\checkbox_create.o: ..\uCGUI\WM\WM_GUI.h
-wirelessmqtt\checkbox_create.o: ..\uCGUI\Widget\DIALOG_Intern.h

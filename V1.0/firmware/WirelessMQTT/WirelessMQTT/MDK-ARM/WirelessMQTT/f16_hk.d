@@ -1,9 +1,0 @@
-wirelessmqtt\f16_hk.o: ..\uCGUI\Font\F16_HK.c
-wirelessmqtt\f16_hk.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-wirelessmqtt\f16_hk.o: ..\uCGUI\Core\GUI_FontIntern.h
-wirelessmqtt\f16_hk.o: ..\uCGUI\Core\GUI.h
-wirelessmqtt\f16_hk.o: ..\uCGUI\Core\GUI_ConfDefaults.h
-wirelessmqtt\f16_hk.o: ..\uCGUI\Config\GUIConf.h
-wirelessmqtt\f16_hk.o: ..\uCGUI\Core\GUIType.h
-wirelessmqtt\f16_hk.o: ..\uCGUI\Core\LCD.h
-wirelessmqtt\f16_hk.o: ..\uCGUI\Core\GUIVersion.h
